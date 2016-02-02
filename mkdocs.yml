@@ -1,0 +1,7 @@
+site_name: Main site for all docs
+
+docs_dir: '.'
+
+pages:
+- ['README.md', 'Introduction']
+- ['about.md', 'About']
