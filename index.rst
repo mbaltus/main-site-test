@@ -11,12 +11,11 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+   :ref:`Testing My Docs documentation <testingmydocs:index>`
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
