@@ -1,7 +1,0 @@
-site_name: Main site for all docs
-
-docs_dir: './docs'
-
-pages:
-- ['README.md', 'Introduction']
-- ['about.md', 'About']
