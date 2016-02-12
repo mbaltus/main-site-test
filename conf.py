@@ -33,6 +33,9 @@ import shlex
 extensions = [
     'sphinx.ext.intersphinx',
 ]
+# Configuration for intersphinx
+intersphinx_mapping = {'testingdocs': ('projects/testingmydocs', None)}
+
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -206,6 +209,4 @@ html_static_path = ['_static']
 #htmlhelp_basename = 'main-site-test-docs'
 
 
-# Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {'testingmydocs': ('http://testingmydocs.readthedocs.org/en/latest/', None)}
 
