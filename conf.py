@@ -34,7 +34,7 @@ extensions = [
     'sphinx.ext.intersphinx',
 ]
 # Configuration for intersphinx
-intersphinx_mapping = {'testingdocs': ('projects/testingmydocs/en/latest', None)}
+intersphinx_mapping = {'testingdocs': ('projects/testingmydocs/en/latest/_build', None)}
 
 
 # Add any paths that contain templates here, relative to this directory.
