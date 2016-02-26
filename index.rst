@@ -19,4 +19,5 @@ The currently documented projects are:
    My test subproject 4 <../../projects/testingmydocs/checkouts/latest/index>
    Test 5  <http://main-site-test.readthedocs.org/projects/testingmydocs/index>
    http://main-site-test.readthedocs.org/projects/testingmydocs/index
+   :ref:`about the test <testingdocs:about>`
 
