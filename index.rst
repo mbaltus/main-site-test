@@ -13,6 +13,6 @@ The currently documented projects are:
    :maxdepth: 2
 
    Simplifier <docs_simplifier/index>
-   My test subproject <testingdocs:about>
+   My test subproject <../../projects/testingmydocs/index>
 
 
