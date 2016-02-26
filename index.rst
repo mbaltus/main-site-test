@@ -19,9 +19,9 @@ The currently documented projects are:
    My test subproject 4 <../../projects/testingmydocs/checkouts/latest/index>
    Test 5  <http://main-site-test.readthedocs.org/projects/testingmydocs/index>
    http://main-site-test.readthedocs.org/projects/testingmydocs/index
-   :doc:`about the test <testingdocs:about>`
-   
+  
    
 More testing of references
-:doc:`docs_simplifier/simplifierResources`
+:doc:`docs_simplifier/simplifierResources` and  :doc:`about the test <testingdocs:about>`
+   
 
