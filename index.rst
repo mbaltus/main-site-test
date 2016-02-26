@@ -15,8 +15,8 @@ The currently documented projects are:
    Simplifier <docs_simplifier/index>
    My test subproject <../../projects/testingmydocs/checkouts/latest/index.rst>
    My test subproject 2 <../../projects/testingmydocs/index.rst>
-   My test subproject 3 <../../projects/testingmydocs/index>
-   My test subproject 4 <../../projects/testingmydocs/checkouts/latest/index>
+   My test subproject 3 <../../projects/testingmydocs/index#://>
+   My test subproject 4 <../../projects/testingmydocs/checkouts/latest/index#://>
    Test 5  <http://main-site-test.readthedocs.org/projects/testingmydocs/index>
    http://main-site-test.readthedocs.org/projects/testingmydocs/index
   
