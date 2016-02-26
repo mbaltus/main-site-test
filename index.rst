@@ -17,5 +17,6 @@ The currently documented projects are:
    My test subproject 2 <../../projects/testingmydocs/index.rst>
    My test subproject 3 <../../projects/testingmydocs/index>
    My test subproject 4 <../../projects/testingmydocs/checkouts/latest/index>
+   Test 5  <http://main-site-test.readthedocs.org/projects/testingmydocs/en/latest/index>
 
 
