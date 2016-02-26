@@ -22,6 +22,6 @@ The currently documented projects are:
   
    
 More testing of references
-:doc:`docs_simplifier/simplifierResources` and  :doc:`about the test <testingdocs:about>`
+:doc:`docs_simplifier/simplifierResources` and  :ref:`about the test <testingdocs:about>`
    
 
