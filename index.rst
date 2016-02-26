@@ -20,5 +20,8 @@ The currently documented projects are:
    Test 5  <http://main-site-test.readthedocs.org/projects/testingmydocs/index>
    http://main-site-test.readthedocs.org/projects/testingmydocs/index
    :doc:`about the test <testingdocs:about>`
-   :doc:`docs_simplifier/simplifierResources`
+   
+   
+More testing of references
+:doc:`docs_simplifier/simplifierResources`
 
