@@ -13,6 +13,9 @@ The currently documented projects are:
    :maxdepth: 2
 
    Simplifier <docs_simplifier/index>
-   My test subproject </home/docs/checkouts/readthedocs.org/user_builds/testingmydocs/checkouts/latest/index.rst>
+   My test subproject <../../projects/testingmydocs/checkouts/latest/index.rst>
+   My test subproject 2 <../../projects/testingmydocs/index.rst>
+   My test subproject 3 <../../projects/testingmydocs/index>
+   My test subproject 4 <../../projects/testingmydocs/checkouts/latest/index>
 
 
