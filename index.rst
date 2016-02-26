@@ -13,8 +13,6 @@ The currently documented projects are:
    :maxdepth: 2
 
    Simplifier <docs_simplifier/index>
-   The Forge profiling tool <~/projects/forge>
-   The Spark server <~/projects/spark>
-   My test subproject <~/projects/testingmydocs>
+   My test subproject </projects/testingmydocs>
 
 
