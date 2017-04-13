@@ -1,13 +1,13 @@
+.. Vonk documentation master file.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to the Vonk server documentation
+========================================
+
+Contents:
+
 .. toctree::
-   :maxdepth: 1
-   :hidden:
+   :maxdepth: 2
 
    start
-.. add files here
-
-=========================================   
-Welcome to the Vonk server documentation
-=========================================
-
-.. include:: start.rst
-
