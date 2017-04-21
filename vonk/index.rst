@@ -20,6 +20,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
 
    start
 .. add files here
