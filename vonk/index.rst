@@ -1,11 +1,3 @@
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   start
-.. add files here
-
 Welcome to the Vonk server documentation
 =========================================
 
@@ -24,3 +16,10 @@ On these pages we provide you with the documentation you need to get up and runn
 installation, as well as information how to contact us when you have additional needs, such as a custom implementation
 or support contract.
 
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   start
+.. add files here
