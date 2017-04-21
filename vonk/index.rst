@@ -5,7 +5,6 @@
    start
 .. add files here
 
-=========================================   
 Welcome to the Vonk server documentation
 =========================================
 
