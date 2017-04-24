@@ -22,4 +22,6 @@ or support contract.
    :hidden:
 
    start
+   configure
+   contact
 .. add files here
