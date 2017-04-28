@@ -1,8 +1,8 @@
-.. _getting-started:
+.. _use_docker:
 
-===============
-Getting Started
-===============
+====================
+Using Vonk on Docker
+====================
 
 If you want to start using the standard Vonk server in your own Windows environment, follow these steps to install the server.
 For non Windows systems, or if you want to use Docker for Windows, please look at the :ref:`use_docker` section.
