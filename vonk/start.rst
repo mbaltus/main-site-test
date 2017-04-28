@@ -11,8 +11,9 @@ If you want to start using the standard Vonk server in your own environment, fol
 	For example: ``C:\Vonk``
 
 3.	Open a command prompt or Powershell and run:
-	``cd C:\Vonk``
-	``.\Vonk.Server.exe``
+::
+	cd C:\Vonk
+	.\Vonk.Server.exe
 	
 	Vonk will then run on port 4080 of the system.
 	
