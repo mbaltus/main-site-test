@@ -1,16 +1,12 @@
-.. SimplifierDocs documentation master file, created by
-   This file is the main page, pointing to the documentation
-   for the subprojects Simplifier, Forge, Vonk and the .Net API.
 
-Welcome to Simplifier's documentation site
-==========================================
 
-On this site you will find the documentation for various FHIR tools and APIs.
+Just testing
+============
 
-The currently documented projects are:
+On this site you will find nothing.
+
 
 .. toctree::
    :maxdepth: 1
 
-   Simplifier - FHIR profile registry <simplifier/index>
-   Vonk - FHIR server <vonk/index>
+   
