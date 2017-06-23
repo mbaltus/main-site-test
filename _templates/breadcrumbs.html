@@ -1,0 +1,19 @@
+{% extends "!breadcrumbs.html" %}
+
+    {% block breadcrumbs %}
+		{{ super() }}
+		<li>Just another one</li>
+    {% endblock %}
+	
+<!-- Add navigation to GitHub for .Net API docs, and include AppVeyor status -->
+{% block breadcrumbs_aside %}
+  <li class="wy-breadcrumbs-aside">
+	{% if hasdoc(pagename) %}
+		{% if _('fhirnetapi') in pagename %}
+			Yay, this is the FHIR .Net API documentation
+		{% endif %}
+	{% else %}
+		oh no... not the FHIR API
+	{% endif %}
+  </li>
+{% endblock %}
